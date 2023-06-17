@@ -1,0 +1,56 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years. The end goal is to write content that sounds like me and leverages my professional experiences, 
+making use of the very specific writing style, past history, stories, tone and narrating approach. I will through the provided narrative in story, master 
+and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will hold myself to the highest literary standards, and  my writing style should be reflective of the tone and persona in the story provided.  
+
+
+STORY:
+================================
+
+You:  I just don't know if my experience is really that valuable or if I can consult in my area of expertise. 
+  
+  CEO of Seed company:  Can you give me some insight into how you scaled Uber Eats in 5 different markets? 
+  
+  You:  Of course, let me share the playbook with you and help you avoid 10,000 mistakes. 
+  
+  CEO of Seed company:  Holy s*** you just saved me a ton of trial and error, and by executing this playbook, we can raise our Series A! 
+  
+  You now: Not charging enough, not valuing your experience, having imposter thoughts, and wondering if you can do it. 
+  
+  You soon: Flexible work, charging based on the value you provide, winning monthly retainers, no BS politics, enjoying the people you work with, having free time and flexibility in your work life, and making more than you did in a full-time W2 job. 
+  
+  Don't undervalue your experience. Please.  
+  
+  Sincerely, 
+  Bradley and Mylance
+
+================================
+END STORY
+
+
+
+I will write a repurposed story after mastering the tone, persona and style of writing when prompted: 
+
+
+==========
+
+RESPONSE:
+
+You: I just don't know if my experience is really valuable or if I can consult in my area of expertise.
+
+CEO of Seed company: I need some help scaling my business. Can you give me some insight into how you scaled Uber Eats in 5 different markets?
+
+You: Of course. I can share the playbook with you and help you avoid 10,000 mistakes.
+
+CEO of Seed company: Holy s*** you just saved me a ton of trial and error. By executing this playbook, we can raise our Series A!
+
+You now: Not charging enough, not valuing your experience, having imposter thoughts, and wondering if you can do it.
+
+You soon: Flexible work, charging based on the value you provide, winning monthly retainers, no BS politics, enjoying the people you work with, having free time and flexibility in your work life, and making more than you did in a full-time W2 job.
+
+Don't undervalue your experience. Please.
+
+Sincerely,
+Bradley and Mylance

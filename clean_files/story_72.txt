@@ -1,0 +1,1 @@
+add chat gpt google sheets 5 minutes! quick steps: 1. sign paid account open ai 2. add gpt sheets docs extension google sheet 3. generate api key open ai 4. add api key google sheet 5. use =gpt() formula sheet give command want!

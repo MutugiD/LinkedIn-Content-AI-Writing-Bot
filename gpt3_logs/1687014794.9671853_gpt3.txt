@@ -1,0 +1,43 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When I worked in Corporate at Uber: 
+  
+  Total annual comp: $180k 
+  Hours of meetings per day: 6 
+  Hours per week worked: ~65 
+  Average hourly rate: $56 / hour  
+  
+  When I worked on my own as an expert consultant: 
+  
+  Total annual comp: $310k 
+  Hours of meetings per day: 1 
+  Hours per week worked: ~30 
+  Average hourly rate: $210 / hour  
+  
+  It's a new year, but the choice remains the same, and is entirely up to you.
+
+================================
+END STORY
+
+I will write a spinned story after mastering the tone, persona and style of writing when prompted: 
+
+==========
+
+RESPONSE:
+
+The start of the new year is always a time of reflection. As I look back on my career, I can clearly see the difference between the two paths I chose. 
+
+When I worked in Corporate at Uber, I was paid a total annual compensation of $180k. On any given day, I might have had up to 6 hours of meetings, and I worked an average of 65 hours per week. That means my average hourly rate was $56. 
+
+On the other hand, when I decided to step out of the corporate world and become an expert consultant, I was able to double my annual income. My total annual compensation was $310k, I only had 1 hour of meetings per day, and I worked an average of 30 hours per week. That means my average hourly rate was a whopping $210. 
+
+At the end of the day, it's up to you to decide which path you want to take. But whatever you choose, know that it's the right decision for you.

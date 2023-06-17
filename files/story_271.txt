@@ -1,0 +1,19 @@
+Many don't know this, but before I founded Mylance, I co-founded another start-up with 2 friends that went nowhere. Here's what happened: 
+  
+  The idea was in the travel space building a curated Yelp with recommendations only from your network.  
+  
+  Biggest problem: We didn't test an MVP before we built it. We just designed and built what we thought was the product people wanted. 
+  
+  We spent 9 months working on it. We held meetings at 5am before my co-founders had to go to their  day jobs.  We got 90% of the way through our MVP before we realized we hadn't fully validated that we were building a product people wanted. Our developer got a bigger role at his company, and it was over as quickly as it started. 
+  
+  Taking this learning into Mylance, my first products were completely manual. I wanted to test demand (actually collect customer money) before I built any software. 
+  
+  How did I do this? 
+  
+  1. Our first tax product had zero software - just a CPA managing customers' Quickbooks. It was $120/month, and nobody churned.  
+  
+  2. Our first Bootcamp was run completely via Google Sheets, Zoom, and Slack. It was $1249 and because the value prop was there, customers paid for it. And loved it. Nobody cared it wasn't a fancy software. 
+  
+  Lesson: validate your idea by finding a way to get paying customers without a fancy software. If you can't get someone to pay, you probably don't have a business. 
+  
+  #lessonlearned #startups #entrepreneurialjourney

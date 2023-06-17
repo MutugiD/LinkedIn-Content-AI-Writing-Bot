@@ -1,0 +1,50 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years. The end goal is to write content that sounds like me and leverages my professional experiences, 
+making use of the very specific writing style, past history, stories, tone and narrating approach. I will through the provided narrative in story, master 
+and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will hold myself to the highest literary standards, and  my writing style should be reflective of the tone and persona in the story provided.  
+
+
+STORY:
+================================
+
+When I left Uber, I went through my LinkedIn inbound messages and responded that I wasn't open to full-time jobs, but I would be open to helping part-time as a consultant.  
+  
+  It was a shot in the dark. I had no idea if this was possible for someone like me. 
+  
+  I responded to 12 companies. 11 said  no  or didn't respond. 1 responded favorably, and asked to talk further. 
+  
+  That one company who did respond ended up being my first consulting client.  
+  
+  You're not going to shoot 100%. Or even 50%. But if you put yourself out there enough times, you're going to eventually find success. 
+  
+  I didn't know what was possible until I asked for it. And turns out not only was it possible, but it would change my life forever. 
+  
+  What do you have to lose? The bigger loss is not ever trying. 
+  
+  #justtryit #putyourselfoutthere #makeithappen
+
+================================
+END STORY
+
+
+
+I will write a repurposed story after mastering the tone, persona and style of writing when prompted: 
+
+
+==========
+
+RESPONSE:
+
+After I left Uber, I decided to put myself out there and see if I could find any consulting work. I went through my LinkedIn messages and told companies that I was open to helping out part-time. 
+  
+  It was a shot in the dark, but I figured it was worth a try. I had no idea if this was possible for someone like me. 
+  
+  I responded to 12 companies. 11 said no or didn't respond. 1 responded favorably and asked to talk further. 
+  
+  That one company who did respond ended up being my first consulting client.  
+  
+  It just goes to show that you never know what's possible until you ask for it. And sometimes, all it takes is one yes to change your life forever. 
+  
+  So don't be afraid to put yourself out there and just try. What do you have to lose?

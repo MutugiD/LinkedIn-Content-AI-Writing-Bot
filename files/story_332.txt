@@ -1,0 +1,7 @@
+Requesting help!! 
+  
+  We're making users login with LinkedIn to avoid them having to duplicate information that's already there, and so their LinkedIn profile can supplement their Mylance information.  
+  
+  The LinkedIn API returns only name and email, and we really need their actual LinkedIn URL. To get that, we need to get approved for  r_basicprofile  API access from LinkedIn. 
+  
+  Does anyone have any tips for this or a contact at LinkedIn that might be able to help? Thanks in advance!

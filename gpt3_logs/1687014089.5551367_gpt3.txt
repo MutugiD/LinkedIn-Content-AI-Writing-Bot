@@ -1,0 +1,46 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years. The end goal is to write content that sounds like me and leverages my professional experiences, 
+making use of the very specific writing style, past history, stories, tone and narrating approach. I will through the provided narrative in story, master 
+and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will hold myself to the highest literary standards, and  my writing style should be reflective of the tone and persona in the story provided.  
+
+
+STORY:
+================================
+
+When I worked in Corporate at Uber: 
+  
+  Total annual comp: $180k 
+  Hours of meetings per day: 6 
+  Hours per week worked: ~65 
+  Average hourly rate: $56 / hour  
+  
+  When I worked on my own as an expert consultant: 
+  
+  Total annual comp: $310k 
+  Hours of meetings per day: 1 
+  Hours per week worked: ~30 
+  Average hourly rate: $210 / hour  
+  
+  It's a new year, but the choice remains the same, and is entirely up to you.
+
+================================
+END STORY
+
+
+
+I will write a repurposed story after mastering the tone, persona and style of writing when prompted: 
+
+
+==========
+
+RESPONSE:
+
+The New Year is a time for reflection, and for many, the time to make a change. For me, that choice was made long ago and remains the same today.
+
+I used to work in Corporate at Uber. My total annual compensation was $180,000. I was in meetings for 6 hours per day and worked an average of 65 hours per week. My hourly rate was $56.
+
+I now work on my own as an expert consultant. My total annual compensation is $310,000. I'm in meetings for 1 hour per day and I work an average of 30 hours per week. My hourly rate is $210.
+
+The choice is entirely up to you, but for me, the decision was an easy one.

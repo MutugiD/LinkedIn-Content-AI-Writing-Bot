@@ -1,0 +1,17 @@
+In the Freight space, Uber Freight is often seen as the  gold star  regarding digital brokerages and use of tech.  
+  
+  Here's what really went on in the first two years of growing the company: 
+  
+  1. We did most things manually. We didn't have much tech at the beginning, so we onboarded customers, changed prices, and moved loads manually, just like any other brokerage. 
+  
+  2. We pitched shippers on a vision. We didn't have any shipper tools yet. So we pitched them on what we were building, and offered them to be an early adopter. It worked. 
+  
+  3. We struggled with many aspects of a business that a normal start-up struggles with, such as tracking down our AR. We often were floating well into the 6-figures of cash that our customers owed us, and struggled to collect on it. 
+  
+  4. Hiring was really tough. Freight isn't a sexy industry, and we needed talented tech folks to build a disrupting company. We couldn't take folks from Uber's core business, so we had to hire externally, competing with all the other fancy tech companies. 
+  
+  5. Our data was a mess. We so badly wanted to see in-depth metrics like our funnel conversion. But getting clean data in a presentable manner was very difficult, incredibly time consuming, and frustrating for leaders across the company. 
+  
+  Uber Freight is now valued at over $4B just 5 years after launching.  
+  
+  But it started like any other start-up: gritty, challenging, with setbacks, and pretty damn manual.

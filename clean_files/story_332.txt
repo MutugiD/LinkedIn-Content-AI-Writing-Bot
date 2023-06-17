@@ -1,0 +1,1 @@
+requesting help!! we're making users login linkedin avoid duplicate information that's already there, linkedin profile supplement mylance information. linkedin api returns name email, really need actual linkedin url. get that, need get approved r_basicprofile api access linkedin. anyone tips contact linkedin might able help? thanks advance!

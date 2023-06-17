@@ -1,0 +1,50 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years. The end goal is to write content that sounds like me and leverages my professional experiences, 
+making use of the very specific writing style, past history, stories, tone and narrating approach. I will through the provided narrative in story, master 
+and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will hold myself to the highest literary standards, and  my writing style should be reflective of the tone and persona in the story provided.  
+
+
+STORY:
+================================
+
+When Uber and Lyft both launched Raleigh on the same day in 2014, no one could have predicted the outcome.  
+  
+  Six months later, Uber had 90% market share in the area. 4 things Uber did to come out on top: 
+  
+  1. Focused on a small geographic area: Instead of trying to cover the entire region, Uber launched in a 7-mile circle in downtown Raleigh, where demand was highest. This allowed them to match rider and driver demand more effectively and keep ETAs under 5 minutes, which was their main KPI at the time. 
+  
+  2. Used targeted incentives to get more drivers on the road: To achieve their ambitious ETAs, Uber needed more drivers on the road, especially during peak hours. So they used data analysis to identify times when demand was high and offered targeted financial incentives to drivers who were willing to work during those times. 
+  
+  3. Leveraged local city teams: Unlike Lyft, which was headquartered in San Francisco and oversaw operations nationwide, Uber had dedicated city teams in Raleigh. This allowed them to be more nimble and responsive to local events and trends, and to build stronger relationships with riders and drivers in the area. 
+  
+  4. Focused on quality over quantity: While Lyft was busy expanding to neighboring cities like Durham and Chapel Hill, Uber stayed focused on improving the rider and driver experience in their core market. They worked closely with drivers to address concerns and feedback, and made sure every support ticket was answered promptly. 
+  
+  The lesson for other startups is clear: don't try to do everything at once.  
+  
+  Focus on a core market, listen to your customers, and execute flawlessly.
+
+================================
+END STORY
+
+
+
+I will write a repurposed story after mastering the tone, persona and style of writing when prompted: 
+
+
+==========
+
+RESPONSE:
+
+It's no secret that Uber and Lyft both launched in Raleigh on the same day back in 2014. But what many people don't know is that Uber came out on top in just six short months. Here's a look at four things Uber did to come out on top in the Raleigh market: 
+
+1. Focused on a small geographic area: Instead of trying to cover the entire region, Uber launched in a 7-mile circle in downtown Raleigh, where demand was highest. This allowed them to match rider and driver demand more effectively and keep ETAs under 5 minutes, which was their main KPI at the time. 
+
+2. Used targeted incentives to get more drivers on the road: To achieve their ambitious ETAs, Uber needed more drivers on the road, especially during peak hours. So they used data analysis to identify times when demand was high and offered targeted financial incentives to drivers who were willing to work during those times. 
+
+3. Leveraged local city teams: Unlike Lyft, which was headquartered in San Francisco and oversaw operations nationwide, Uber had dedicated city teams in Raleigh. This allowed them to be more nimble and responsive to local events and trends, and to build stronger relationships with riders and drivers in the area. 
+
+4. Focused on quality over quantity: While Lyft was busy expanding to neighboring cities like Durham and Chapel Hill, Uber stayed focused on improving the rider and driver experience in their core market. They worked closely with drivers to address concerns and feedback, and made sure every support ticket was answered promptly. 
+
+The lesson for other startups is clear: don't try to do everything at once. Focus on a core market, listen to your customers, and execute flawlessly.

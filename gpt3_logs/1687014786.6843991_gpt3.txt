@@ -1,0 +1,47 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+You:  I just don't know if my experience is really that valuable or if I can consult in my area of expertise. 
+  
+  CEO of Seed company:  Can you give me some insight into how you scaled Uber Eats in 5 different markets? 
+  
+  You:  Of course, let me share the playbook with you and help you avoid 10,000 mistakes. 
+  
+  CEO of Seed company:  Holy s*** you just saved me a ton of trial and error, and by executing this playbook, we can raise our Series A! 
+  
+  You now: Not charging enough, not valuing your experience, having imposter thoughts, and wondering if you can do it. 
+  
+  You soon: Flexible work, charging based on the value you provide, winning monthly retainers, no BS politics, enjoying the people you work with, having free time and flexibility in your work life, and making more than you did in a full-time W2 job. 
+  
+  Don't undervalue your experience. Please.  
+  
+  Sincerely, 
+  Bradley and Mylance
+
+================================
+END STORY
+
+I will write a spinned story after mastering the tone, persona and style of writing when prompted: 
+
+==========
+
+RESPONSE:
+
+Are you feeling like you don't have enough experience or don't know if you can consult in your area of expertise? We have been there. 
+
+When the CEO of a seed company asked us how we had scaled Uber Eats in 5 different markets, we were ready to share our playbook and all the lessons we had learned along the way. We knew that by executing this playbook, they could raise their Series A. 
+
+It was a great feeling to be appreciated and valued for our work. We no longer felt like we were undercharging or undervaluing our experience. We found flexible work, charged based on the value we provided, won monthly retainers, avoided politics, enjoyed the people we worked with, had free time and flexibility in our work life, and made more than we did in a full-time W2 job. 
+
+Your experience is valuable. Don't let yourself be undervalued. 
+
+Sincerely, 
+Bradley and Mylance

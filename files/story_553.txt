@@ -1,0 +1,25 @@
+Back when Travis was CEO, Uber incentivized a few hundred of its employees to work over the Christmas / NYE Holiday.  
+  
+  It resulted in new business ideas, a strong loyalty to the company, and supported the city teams on the busiest night of the year.  
+  
+  Here's what went down: 
+  
+  1. They called it  Workation.  Uber would send out details a few weeks in advance where employees could pitch an idea for the business. 
+  
+  2. The top 100 ideas were selected, and the employees who submitted those ideas became project leads.  
+  
+  3. Over the next 2 weeks, project leads would assemble a team to support them in building their idea (with the goal to have a working prototype by the end). 
+  
+  4. The deal was: project leads got flights and $100 / day covered to anywhere in the world. Anyone on the project team got $100 / day, but had to pay for their own flight. 
+  
+  5. Teams spread across the globe from Dec 26 - Jan 5th to work on their projects, again with the idea of building a working prototype. 
+  
+  6. Given New Year's Eve is Uber's biggest day of the year, city team members were tasked with being  on call  to support in case anything broke. And something always broke. 
+  
+  7. After the Workation sprint, projects were submitted to HQ, which were evaluated on business impact and completeness, and winners were chosen. 
+  
+  A few Workation projects even made it into the app as features that still exist today! But more importantly, it built a sense of camaraderie with fellow employees that you might never meet otherwise. 
+  
+  Important to note that Workation was 100% optional and nothing was held against you if you didn't go. 
+  
+  Curious given the working environment today: what are your thoughts on this kind of project within a company?

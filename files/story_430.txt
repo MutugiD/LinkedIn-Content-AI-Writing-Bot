@@ -1,0 +1,19 @@
+Should I take equity compensation for a consulting gig? What should I be on the lookout for?  
+  
+  I get these questions a lot! 
+  
+  First, taking equity is 100% up to you. It depends what you want to optimize for and your client’s cash position. Do you want to optimize for take home cash, or are you open to an equity position in the company?  
+  
+  I generally took 20% of my comp in equity, and built out a small equity portfolio as I worked, which I thought was cool. 
+  
+  What to consider when taking stock options: 
+  
+  1. Make sure if / when you leave, you have plenty of time to exercise your options (I got 10 years with my last client) 
+  
+  2. They can’t actually issue shares until their board meets. You can ask when this is happening next, and make sure it’s before the raise / new 409a because it will affect your options strike price, and this could be a significant change 
+  
+  3. Get your options / shares on Carta if they’re not already so you can see your shares transparently 
+  
+  4. To the extent possible, use the company’s lawyers for agreements and questions. Using your own lawyer is expensive. If you have a quick question that can be answered over Slack, Mylance has lawyers that can answer a quick question over Slack 
+  
+  Hope this helps as you navigate negotiating your next consulting agreement!

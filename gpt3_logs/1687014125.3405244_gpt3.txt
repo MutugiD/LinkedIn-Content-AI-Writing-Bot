@@ -1,0 +1,46 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years. The end goal is to write content that sounds like me and leverages my professional experiences, 
+making use of the very specific writing style, past history, stories, tone and narrating approach. I will through the provided narrative in story, master 
+and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will hold myself to the highest literary standards, and  my writing style should be reflective of the tone and persona in the story provided.  
+
+
+STORY:
+================================
+
+When I left Uber, I knew I wanted to do something on my own. I didn't know what, but I was open to trying new things. To fund these experiments, I wanted to find a part-time, contract role that paid the bills. 
+  
+  So, I started responding to Linkedin messages from recruiters saying I wasn't looking for a full-time job, but I was open to part-time. I responded to 12 companies. 11 companies either didn't respond or told me no. One company said they were open to it. 
+  
+  That ended up being my first client, and the start of my freelance consulting  career.  The 11 rejections hurt a little. Being told  no  is never fun. But it's going to be part of the process if you're going to try new things, so better get used to it sooner or later. 
+  
+  Look at  no  as an opportunity. If you don't get told no, you haven't pushed hard enough or asked for enough. Make sure you find  no  before you agree to a  yes. 
+  
+  Agree? Disagree? Share your thoughts below! 
+  
+  #rejection #opportunity #startups #consulting #freelance #beyourownboss #takerisks
+
+================================
+END STORY
+
+
+
+I will write a repurposed story after mastering the tone, persona and style of writing when prompted: 
+
+
+==========
+
+RESPONSE:
+
+I left my corporate job at Uber to pursue my dream of being my own boss. I knew I wanted to do something on my own, but I wasn't sure what that would be. To fund these experiments, I started responding to Linkedin messages from recruiters. 
+  
+  I told them I wasn't looking for a full-time job, but I was open to part-time work or contracting. I responded to 12 companies. 11 companies either didn't respond or told me no. One company said they were open to it. 
+  
+  That ended up being my first client, and the start of my freelance consulting career. The 11 rejections hurt a little. Being told no is never fun. But it's going to be part of the process if you're going to try new things, so better get used to it sooner or later. 
+  
+  Look at no as an opportunity. If you don't get told no, you haven't pushed hard enough or asked for enough. Make sure you find no before you agree to a yes. 
+  
+  Agree? Disagree? Share your thoughts below! 
+  
+  #rejection #opportunity #startups #consulting #freelance #beyourownboss #takerisks

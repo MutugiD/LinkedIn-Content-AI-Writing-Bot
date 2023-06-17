@@ -1,0 +1,46 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years. The end goal is to write content that sounds like me and leverages my professional experiences, 
+making use of the very specific writing style, past history, stories, tone and narrating approach. I will through the provided narrative in story, master 
+and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will hold myself to the highest literary standards, and  my writing style should be reflective of the tone and persona in the story provided.  
+
+
+STORY:
+================================
+
+When I worked in Corporate at Uber: 
+  
+  Total annual comp: $180k 
+  Hours of meetings per day: 6 
+  Hours per week worked: ~65 
+  Average hourly rate: $56 / hour  
+  
+  When I worked on my own as an expert consultant: 
+  
+  Total annual comp: $310k 
+  Hours of meetings per day: 1 
+  Hours per week worked: ~30 
+  Average hourly rate: $210 / hour  
+  
+  It's a new year, but the choice remains the same, and is entirely up to you.
+
+================================
+END STORY
+
+
+
+I will write a repurposed story after mastering the tone, persona and style of writing when prompted: 
+
+
+==========
+
+RESPONSE:
+
+It's a new year, and you have a choice to make: you can either work for a corporation or you can work for yourself. Both have their pros and cons, but it's entirely up to you.
+
+If you decide to work for a corporation, you can expect to make a total annual compensation of around $180,000. You'll probably have to sit in 6 hours of meetings per day, and you can expect to work around 65 hours per week. However, your hourly rate will be around $56.
+
+On the other hand, if you decide to work for yourself, you can expect to make a total annual compensation of around $310,000. You'll only have to sit in 1 hour of meetings per day, and you can expect to work around 30 hours per week. However, your hourly rate will be around $210.
+
+The choice is yours, and it's entirely up to you.

@@ -1,0 +1,45 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When I tell people Uber Freight became a $1B brand in 2 years, they often think it’s because of Uber’s significant investment in money and resources. 
+  
+  On the inside, it felt like a completely different story. 
+  
+  The first two things we did had nothing to do with how much money Uber raised: 
+  
+  1. We talked to users.  
+  
+  We went to truck stops in Dallas, Texas and spoke to a few hundred truck drivers. We asked them about their pain points, we took detailed notes, and we compiled all our data so we could analyze and find takeaways. 
+  
+  2. We did things that don’t scale.  
+  
+  We moved loads manually. While moving freight loads isn’t super novel, it allowed us to get into the weeds of what a tech product would need to look like, and automate from the inside out. Further, it helped us build relationships with our users and get off the ground so that when the tech was ready, we'd have users to adopt it. 
+  
+  At some level, it doesn’t matter how many resources you have.  
+  
+  While it certainly helps to be able to hire talented people to build the company, there are no shortcuts to finding product market fit and building tech that users will actually use!
+
+================================
+END STORY
+
+I will write a spinned story after mastering the tone, persona and style of writing when prompted: 
+
+==========
+
+RESPONSE:
+
+When I tell people that Uber Freight became a $1B brand in two years, they're often surprised. They think it’s because of Uber’s deep pockets and hefty investments. The truth is, the magic was a little more subtle than that. 
+
+The first two steps we took had nothing to do with money. We went to truck stops in Dallas, Texas and spoke to hundreds of truck drivers. We asked them questions about their struggles, took detailed notes, and compiled our findings. This allowed us to gain valuable insights into what our product should look like and how to best serve our users. 
+
+We also did things that didn’t scale. We manually moved freight loads so that we could understand the complexities and nuances of the process. This gave us an opportunity to build relationships that would be invaluable when the tech was ready. 
+
+At the end of the day, it’s not how much you have that matters. Sure, having the resources to hire talented people is great, but there’s no substitute for understanding your users and creating tech that they’ll actually use.

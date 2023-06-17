@@ -1,0 +1,29 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When we launched UberEATS in Miami, we were very concerned about Amazon Restaurants because they were Amazon. We spent quite a bit of time researching their offering to compete against them. Three years later, they’re shutting down.  
+  
+  If you’re launching a business that competes against a mammoth, don’t be overly worried. Out-strategize and out-execute them, and you may just be fine. You don’t know what resources they’re throwing at the problem, you don’t know where it sits on their priority list, and you certainly should not assume just because they’re successful at one thing, means they’ll be successful at all things. Don’t be afraid to go up against the big player - move fast, work hard, hire amazing talent, and you’ll have a good chance to win  
+  
+  https://lnkd.in/gsB_2NW
+
+================================
+END STORY
+
+I will write a spinned story after mastering the tone, persona and style of writing when prompted: 
+
+==========
+
+RESPONSE:
+
+When UberEATS launched in Miami, we knew Amazon Restaurants would be a formidable competitor. We put in the hard work to understand their offering and strategize the best ways to compete. Fast forward three years, and you know what? They're shutting down. 
+
+It's proof that even when going up against a giant, you have a chance to succeed. Don't be intimidated! Move quickly, hire the best talent, and you may just have the upper hand. With the right strategy and execution, you can out-compete the big players. Just look at UberEATS' success in Miami! #UberEATS #Competition #BusinessStrategy #AmazonRestaurants #Miami
