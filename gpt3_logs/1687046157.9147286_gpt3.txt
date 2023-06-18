@@ -1,0 +1,38 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+If you do nothing else, two things need to happen to get your next consulting client: 
+  
+  1. Get on the phone: every single consulting project started with a phone call 
+  
+  2. Convert calls where there's an opportunity to work together to a proposal 
+  
+  If you aren't doing, #1, then you don't have an opportunity to do #2. 
+  
+  Put yourself out there. Network. Do outreach. Be a thought leader. Publish content. On the calls see if there's an opportunity to work together.  
+  
+  Get on 100 calls in the next month. Good things will happen.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+The key to finding your next consulting client is to get on the phone and start networking. Put yourself out there, be a thought leader, and publish content. Doing outreach and having 100 calls in the next month will open the doors to potential opportunities to convert those calls to a proposal. Make the call to start the journey and you'll start to see the results!

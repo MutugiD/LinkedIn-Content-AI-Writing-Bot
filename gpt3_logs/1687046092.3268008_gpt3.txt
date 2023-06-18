@@ -1,0 +1,48 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+I got lucky with my first consulting client. We agreed to $25k / month at 25 hours per week. 
+  
+  But I also made a mistake I never made again. Here's what happened: 
+  
+  I billed hourly. 
+  
+  Stay with me. 
+  
+  I had to keep a timesheet and send it over to the client daily. I had to keep a record of what I did and how long each task took me. 
+  
+  This incentivized me to actually be less efficient.  
+  
+  It also incentivized the thinking  well if I just work 2 more hours I can afford X.  Unhealthy thinking and completely misaligned with my client.  
+  
+  I never billed hourly again. I did project-based billing and I did monthly retainers. I was as efficient as possible and delivered as much value as possible to the client. 
+  
+  At Mylance, we get this question a ton.  How do I price my services as a consultant?   
+  
+  And now we've written a comprehensive guide to rates and pricing that we'll be releasing in our newsletter this weekend, including average rates for different specialties.  
+  
+  Join 3,500+ other consultants and get your copy when it comes out this weekend (link in the first comment!)
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+I got lucky starting my career as a consultant, making $25k/month with just 25 hours of work. I made the mistake of billing my clients hourly, which incentivized me to be less efficient. To avoid this, I switched to project or monthly retained billing, which gave me incentive to be more efficient and offer more value to clients. Mylance is now releasing a comprehensive guide on how to price your services as a consultant. Get your copy by joining 3,500+ others in the newsletter this weekend!

@@ -1,0 +1,48 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Uber Eats in Miami launched on July 12th, 2016.  
+  
+  On the first day, we did 1,003 orders making it one of the most successful launches at that time.  
+  
+  Here's what happened on the inside to make our launch day a success:  
+  
+  1. A successful launch is all about what happens in the weeks and days leading up to it. The launch day is almost  after the fact.  So, we did 6 weeks of hectic but carefully planned prep to give ourselves the best chance at success. 
+  
+  2. We launched in a small geography. With a live logistics marketplace, trying to cover a large area is really difficult. We preferred to create a great experience to a smaller number of customers rather than a mediocre one to a larger audience. 
+  
+  3. We utilized our resources, namely existing riders already on the Uber app. Uber Miami was already a big business. We didn't need to reinvent a brand new marketing strategy. We tried to convert as many existing riders to new eaters as possible, and didn't use promotions to do it. We did give away free delivery for the first few weeks. 
+  
+  4. For couriers, we didn't want to disrupt the rides business, so we used drivers who didn't previously qualify for Uber (based on the age or size of their car), in addition to onboarding new ones by advertising on Craigslist, Indeed, and posting flyers at autoshops and bike stores. 
+  
+  5. We did a lot of testing. We did an internal launch 2 weeks before the actual launch day to the internal office. We tested all the restaurants, gave feedback to the couriers, and made sure the systems worked. Then we did a soft launch to a small list of highly engaged Uber Riders a few days before to make sure everything worked externally. We collected as much feedback as we could. 
+  
+  6. Pounded the pavement to onboard as many quality restaurants as possible. We knew customers wanted diversity. To have a successful launch, customers needed to go into the app and see a restaurant they liked. Our benchmark was 100 quality restaurants (based on Yelp reviews) in 4 weeks. That takes a lot of calls, meetings, selling, and closing. 
+  
+  Given Uber was well funded, we certainly had plenty of resources behind us to make this launch a success. That being said, it still took a ton of planning, strategy, and pure hustle to put it all together. 
+  
+  When I think about launching a new product in my business today, I remember these lessons from Uber and spend all my time in the planning phase to give myself the best chance for success.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Launching a successful product can be daunting, but with careful planning, utilizing resources, and plenty of hustle, amazing success can be achieved, as Uber Eats in Miami demonstrated. Prior to the launch day, Uber Eats spent six weeks of hectic preparation, focusing on a small geography and converting existing Uber riders to eaters. Couriers were also recruited from sources such as Craigslist and autoshops. They also tested the product internally and externally to get as much feedback as possible to refine the experience. Finally, they spent time pounding the pavement to get as many quality restaurants on board as possible. All these steps and resources paid off in droves with 1,003 orders on the first day.  These lessons can prove helpful when launching new products in today's competitive market.

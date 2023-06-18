@@ -1,0 +1,38 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Successful independent consultants: what's one thing that's helped you the most in being successful on your journey? 
+  
+  For me, it was honing my niche and finding a way to present that in a way that made tangible sense to clients, legitimized my experience, and clearly communicated the value I could bring. 
+  
+  Instead of telling clients I  worked in Operations for Uber for 4.5 years. 
+  
+  I would say  I specialize in launching and scaling two and three sided B2B and B2C marketplaces given my experience launching UberEATS in Miami and Milan and Uber Freight in the US. 
+  
+  What's something that's helped you? 
+  
+  #freelancelife #consulting #workforyourself #consultingtips
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Successful independent consultants understand that homing in on a specific niche and finding a way to effectively communicate their value to potential clients is key to success. Rather than explaining their background in broad strokes, one example of how one consultant achieved success was by specializing in operations such as launching and scaling two and three sided B2B and B2C marketplaces, detailing their experience launching UberEATS in Miami and Milan as well as Uber Freight in the US. In this way, they were able to both legitimize their experience and clearly demonstrate their value to the customer.

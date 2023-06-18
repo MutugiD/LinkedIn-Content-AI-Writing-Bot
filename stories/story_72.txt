@@ -1,0 +1,9 @@
+Add Chat GPT to Google Sheets in under 5 minutes! 
+  
+  Quick steps: 
+  
+  1. Sign up for a paid account at Open AI 
+  2. Add the GPT Sheets and Docs extension in your Google Sheet 
+  3. Generate an API key in Open AI 
+  4. Add the API key to your Google Sheet 
+  5. Use =gpt() formula in your Sheet and give it any command you want!

@@ -1,0 +1,64 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+What's all this fuss that founding a company is hard? 
+  
+  All you have to do is: 
+  
+  -find a significant problem to solve 
+  -test solutions until one works 
+  -find customers to try out your solution 
+  -iterate on your product until you figure out how to keep your customers 
+  -build your product in real-time taking into account all the feedback 
+  -service existing customers while you find new ones 
+  -come up with a marketing plan to grow the awareness of your product 
+  -hire a team to build your product and support your customers 
+  -keep tabs on competitors and make sure you build differentiation  
+  
+  all while you: 
+  
+  -keep cash in the bank 
+  -stay in legal compliance 
+  -keep your books accurate and clean 
+  -stay on top of taxes 
+  -keep your team engaged and happy 
+  -make sure you don't spam customers with too many emails 
+  -put in place robust customer service to learn from and retain your customers 
+  
+  all while you: 
+  
+  -manage the rest of your life 
+  -invest in your relationships and family 
+  -stay mentally sane 
+  -keep your physical body in shape 
+  -have some fun and  play  outside of work 
+  -continue learning and growing as an individual  
+  -invest your personal finances wisely 
+  -make time for your loved friends, family, and pets 
+  
+  Easy, right? 
+  
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Founding a company may seem difficult but it's achievable through a combination of problem-solving, finding customers, iterating on the product, marketing, hiring a team, keeping a close eye on competitors, managing your finances, staying compliant and taking care of your own physical and mental health. It is essential to invest in relationships and personal growth while making sure not to forget to take time for yourself and your loved ones.

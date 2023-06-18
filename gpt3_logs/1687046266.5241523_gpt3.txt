@@ -1,0 +1,54 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Given your years of professional experience, courses, coaching, and feedback, YOU are already a complete, finished, iterated-on, and fully built-out product. 
+  
+  Here’s how to monetize yourself to $10k / month: 
+  
+  1. Differentiate yourself from the herd. 
+  
+  Being a “product manager” or “ops specialist” doesn’t help you. Describe yourself in a clear, concise way to stand out, and make sure you can describe your value-add. “I scale supply for food delivery marketplaces” as an example. 
+  
+  2. Put yourself out there. 
+  
+  Once you can explain your value-add, you need to get on calls with potential clients. Talk to your network. Do outreach to companies that fit your niche. Reach out to 3-4 people per day all week and set-up calls. 
+  
+  3. On the calls, ask questions. 
+  
+  Do not pitch yourself. Be curious by asking thoughtful questions. 
+  
+  Understand their challenges and pain points. Ask questions in your area of expertise. This will help you learn if there’s an opportunity while validating your experience at the same time. 
+  
+  4. When there’s an opportunity, respond with a detailed proposal in 24 hours. 
+  
+  Your proposal needs to hit on 4 things: 
+  a. Remind them who you are and why you’re a badass 
+  b. Review the company goals 
+  c. Nail down what value you’ll add to them (scope and deliverables) 
+  c. Logistics (travel expectations, compensation, etc.) 
+  
+  These might seem obvious when you read them. But will you actually execute them to have success?
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+As someone with years of professional experience, courses, coaching, and feedback, it's time to monetize that experience and aesthetic to hit the $10k mark. To do this successfully, it's essential to stand out from the competition. Describe yourself in a unique way and make sure you can explain the value your experience offers. Get on calls with potential clients, and don't pitch yourself until after you've asked thoughtful questions. It's by understanding a client's challenges and pain points that you can validate your experience and uncover opportunities for yourself. Once there's an opportunity, craft a detailed proposal in 24 hours. This needs to cover your experience and badassery, company goals, the value you'll offer, and any logistical details around travel and compensation. With confident execution of the above, success is guaranteed.

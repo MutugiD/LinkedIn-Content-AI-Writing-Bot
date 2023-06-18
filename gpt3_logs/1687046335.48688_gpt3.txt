@@ -1,0 +1,54 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+ Silence Your Inner Imposter by Defining Your Niche, Value-Add, and Ideal Customer  -A Short Story written by You 
+  
+  You've fought valiantly against the Great Imposter, first by noting its presence. Now it's time to reinforce your defenses by gaining crystal-clear clarity around your niche, value-add, and ideal customer.  
+  
+  This post uncovers the keys to creating a focused and confident consulting business that leaves no room for self-doubt. 
+  
+  1. Discover Your Niche: To zero in on your niche, start by analyzing your skills, experiences, and passions. What are you exceptional at? What do you enjoy doing the most? Align your niche with your unique strengths to create a competitive edge that's difficult to replicate.  
+  
+  Remember, the more specific your niche, the easier it is to establish yourself as an expert and silence your inner imposter. 
+  
+  2. Define Your Value-Add: It's time to identify the unique value you bring to the table. What problems can you solve for your clients? How do you stand out from the competition? Establish a clear value proposition that demonstrates your expertise and reinforces your confidence.  
+  
+  With your value-add in place, you'll be well-equipped to tackle any doubts the Great Imposter may throw your way. 
+  
+  3. Identify Your Ideal Customer: Now that you know your niche and value-add, it's time to pinpoint your ideal customer. Who stands to benefit the most from your services? Consider factors such as industry, company size, and specific challenges.  
+  
+  By targeting your ideal customer, you'll not only boost your chances of success but also foster a sense of purpose and self-assurance that leaves your inner imposter powerless. 
+  
+  Once you've defined your niche, value-add, and ideal customer, you'll find that the once-ominous whispers of the Great Imposter fade into the background.  
+  
+  Your newfound clarity will serve as a shield, protecting you from self-doubt and enabling you to move forward with confidence and conviction. 
+  
+  So, stand tall and embrace your role as an expert in your field.  
+  
+  With your niche, value-add, and ideal customer firmly in place, the Great Imposter doesn't stand a chance. It's time to take your rightful place in the spotlight and let your unique talents shine. 💡 
+  
+  Tune in tomorrow for a continuation of this week's tackling of the inner saboteur as our short story continues: approaching clients via email, LinkedIn, and phone calls to find our next consulting gig.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Gain clarity and confidence on the consulting path by defining your niche, value-add, and ideal customer. By doing so, you'll be able to stand out from the competition, reinforce your value proposition, and pinpoint who stands to benefit the most from your services. With this newfound clarity in place, you'll be able to take your rightful place in the spotlight and silence the once-ominous whispers of the Great Imposter. Tomorrow's installment covers the steps to finding the next consulting gig through email, LinkedIn, and phone calls.

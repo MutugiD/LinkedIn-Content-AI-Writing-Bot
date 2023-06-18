@@ -1,0 +1,36 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Finding your next consulting client can be really challenging. But if you play your cards right, they come right to you! 
+  
+  Here's how: 
+  
+  1. Optimize your LinkedIn profile 
+  2. Grow your network 
+  3. Publish content that showcases your experience and expertise 
+  
+  You don't even need to say you're open to consulting. Legitimizing yourself by sharing stories from your experience does the job itself.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Finding your next client doesn't need to be a daunting task. By leveraging the power of LinkedIn, optimizing your profile, growing your network and publishing content that positions you as a professional, you can make sure potential clients come to you. You don't even need to actively seek - just share stories from your experience and watch the consulting roles come rolling in!

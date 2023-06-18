@@ -1,0 +1,42 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+You get on the phone with a client and you have the answers they need. You want to tell a client everything they need to know. But you can't give it all away for free!  
+  
+  I got a great question from a customer earlier today. After an intro call with a potential client, she asked me, did I give away too much? Was I too nice? 
+  
+  No, you're not too nice. But your experience and skillset IS valuable. How do you find the balance between selling them on you, but also holding back valuable info that they should be paying for? 
+  
+  My recommendation, do a LOT of listening. When they ask you questions, respond with questions. Asking smart questions about their business shows them you know a ton about the topic at hand. 
+  
+  Further, drop a few tidbits from your experience.  Well when I was at Uber, we thought about it this way.  It validates that you've experienced it before, and your questions validate you know what you're talking about. 
+  
+  If you ask enough of the right questions, they'll know they need to work with you. Follow-up with a compelling proposal summarizing the company challenges and how your experience lines up to solve them, and you're in great shape! 
+  
+  Agree? Disagree? How do you do it!? 
+  
+  #freelance #closeclients #yourenottoonicce #negotiation #getmorebusiness
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Finding the balance between selling yourself and holding back valuable information is key when working with clients. Do a lot of listening and asking smart questions to demonstrate your knowledge on the topic. You can also drop tidbits from your experience to trust in yourself, and finally, follow it up with a compelling proposal of how your experience can help solve their challenges. With these tips, you can close more clients and get more business without compromising on your value.

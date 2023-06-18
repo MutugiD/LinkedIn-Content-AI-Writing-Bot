@@ -1,0 +1,48 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+While Uber is no doubt a tech company driven by its product, Ops played a huge role early on in differentiating against the competition. 
+  
+  Here are 4 ways Ops helped grow Uber to a multi-billion company in a few short years: 
+  
+  1. Experimentation.  
+  
+  For new product features, Ops teams had to prove the ROI and use case. We built hacky solutions to A/B test solutions to see what worked. That way, the product teams already knew the solutions would be successful. We'd start an experiment in one city. If it worked, we'd add a few cities, and then a few more. We'd get statistically significant results, and then share with the product teams to review and add to the roadmap. 
+  
+  2. New city launches 
+  
+  Uber had designated city launchers that would travel the world, launch a new city, and hand off the business to a GM / city team. These people would navigate the regulations, acquire customers, set up the internal tools structure, implement a quick marketing plan, and make sure the launch went successfully before they moved on.  
+  
+  3. Ops acted as city CEOs.  
+  
+  For the first 6-7 years of the company, city teams had full ownership over their cities. They had sole discretion of comms, pricing, incentives, events, and even loyalty programs. Uber eventually needed to unify this under one roof, but in the early days, Uber hired talented, ambitious leaders and gave them full ownership to empower them to grow their cities, and it WORKED. These leaders would share best practices with the other city GMs, enabling cities and regions to grow in tandem.  
+  
+  4. Ops leaders came from tech, not transportation.  
+  
+  Uber didn't hire taxi dispatchers to build a global ridesharing operation. Instead, they hired experienced leaders from tech, consulting, engineering, and finance. These people had strong EQs to be customer-facing, but also had the talent to run operations, marketing, and finance. Further, they didn't come from the taxi or black car industries, thus weren't biased in how to grow a transportation network. They could re-think it from scratch and implement innovative solutions to problems. 
+  
+  There's no right way to build a company. But the experience at Uber taught me a ton about how a tech company can find PMF and then quickly scale to millions of users.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Uber has seen tremendous success in a short period of time due to the innovation and creativity of its Ops teams. They experimented with new product features to test their ROI, quickly launched into new cities, empowered city teams to run their own operations, and recruited tech-savvy professionals rather than hiring from the taxi industry. These measures have been integral for Uber's success and have provided a great example of how tech companies can Scales quickly.

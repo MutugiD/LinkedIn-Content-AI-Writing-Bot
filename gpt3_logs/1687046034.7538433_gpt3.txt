@@ -1,0 +1,42 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+To close a consulting client, you need a kick-ass proposal. Something that hits home with the client and makes it incredibly easy to hire you. 
+  
+  I start every proposal with the same header. The content might surprise you. 
+  
+  I start it with a reminder of who I am and what I’ve done.  
+  
+  It’s a reminder of why I’m the best person for this project. 
+  
+  Why?  
+  
+  Your client has a million things going on. This is a quick reminder to say “Hey, remember me? I’m awesome.”  
+  
+  Most don’t do this. So when you do it, you'll stand out. 
+  
+  If you want to see the rest of this proposal that won me a $20k project, comment “proposal” here and I’ll send it over to you.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+In this proposal, I will start with a reminder to the client of who I am and what I’ve done in order to show why I am the best person for the project. This is a great way to stand out since many don’t to this and will remind the client of why I am the one they should hire. My proposal will provide the client with the $20k project that I recently acquired.

@@ -1,0 +1,30 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+My first consulting client brought me $25k / month. I’ve since helped thousands find their first client and launch a 6-figure consulting business.  
+  
+  Here are the first 10 steps to take:
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+20 years ago, I landed a consulting job that earned me $25k/month. Since then, I have been using that same know-how to help others launch successful consulting businesses, and I'm here to guide the first 10 steps in the journey. Whether it's finding the first client or making 6 figures, I can help on the path to success!

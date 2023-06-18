@@ -27,4 +27,8 @@ You:  I just don't know if my experience is really that valuable or if I can con
 ================================
 END STORY
 
-I will write a spinned story after mastering the tone, persona and style of writing when prompted: 
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+

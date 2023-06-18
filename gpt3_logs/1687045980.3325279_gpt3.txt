@@ -1,0 +1,59 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Want a consulting client but hate sales? 
+  
+  Here's a secret: I hate sales too.  
+  
+  Here's how I had success as a consultant anyways: 
+  
+  Finding a consulting client isn't about selling yourself. In fact if you look at it like that, you're unlikely to have success. 
+  
+  I thought about finding consulting clients as: I have an area of expertise and I have an opportunity to help start-ups solve problems that I've already done in my past. 
+  
+  Here's an example: 
+  
+  A company needs to grow their food delivery marketplace. 
+  
+  Great, I launched Uber Eats in Miami and Milan.  
+  
+  I know exactly what they need to do, and can help them avoid dozens of mistakes along the way. 
+  
+  They're LUCKY to have me. 
+  
+  That's how you want to feel. That the client is lucky to have you because your experience is such a good fit for their problems. 
+  
+  So, you don't need to sell yourself. 
+  
+  The process can be: 
+  
+  1. Ask curious questions 
+  2. Understand where the client is now 
+  3. Find out where they're trying to go 
+  4. Discuss how you've done that in the past, and how you might think about it for them. 
+  
+  It takes all the pressure off  sales  and puts the ball in your court.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Finding a consulting client doesn't have to be a chore. I had success by focussing on the expertise I had to offer and the problems I could come in and help the client solve. By treating the situation like the clients were lucky to have me, I was able to take the pressure off of the sales aspect and focus on the issues at hand, having curious discussions to understand the client's current state and where they wanted to go. This resulted in utilizing my experience to provide helpful and valuable insights.

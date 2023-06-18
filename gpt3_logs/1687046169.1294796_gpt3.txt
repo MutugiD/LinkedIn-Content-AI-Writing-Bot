@@ -1,0 +1,40 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When I started Mylance, I got every piece of advice you could imagine: 
+  
+  -  Raise money - it'll be so easy for you and then you can scale fast 
+  
+  -  Don't ever raise money - you'll have a boss and you'll be miserable 
+  
+  -  Don't raise until you have PMF. Then raise a ton and scale 
+  
+  All of these comments were from very successful, wise people. 
+  
+  The point is there's no right way to do anything.  
+  
+  Build your company how you want. Get advice from mentors and advisors for their thoughts, and then consider what YOU actually think is best for your situation and your company.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+When I started Mylance, I got a mix of advice telling me to either raise money to fast-track the success of the company, or to avoid raising money so I can remain the boss of my own business. All these wise words of advice made me realize that there is no one-size-fit-all approach when it comes to building a company. It is important to take into account advice from mentors and advisors, but ultimately I should decide what is best for my current situation and company.

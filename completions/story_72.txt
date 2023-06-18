@@ -1,0 +1,1 @@
+With just a few quick steps, Open AI's GPT Sheets and Docs extension can be added to your Google Sheet in under five minutes. After signing up for a paid account at Open AI, generate an API key and add it to your Sheet. After these steps, your Sheet can be easily controlled with the =gpt() formula and commands you provide - it couldn't be simpler!

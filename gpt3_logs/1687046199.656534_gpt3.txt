@@ -1,0 +1,60 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Uber and Lyft both launched UberX in Raleigh on the same day. 
+  
+  Fast forward 6 months, Uber had 90% market share in the area. 
+  
+  Here's how we won: 
+  
+  1. Uber's main KPI at the time was ETAs. 
+  
+  When a rider was ready to take a trip, we wanted them to get a driver in under 5 minutes. So we launched in a very small geographic area, and our team worked our butts off to match rider and driver demand so ETAs were under 5 minutes. 
+  
+  Thus, we launched Uber in Raleigh in a 7 mile circle in downtown Raleigh in April 2014. 
+  
+  Lyft, on the other hand, launched in Raleigh, Durham, and Chapel Hill on that same day. They thought covering the entire area (each of those areas are 30-45 min from each other) would help them win since they were first. 
+  
+  However, their result was 10-20 minute ETAs for the entire area. So while Uber wasn't available in Durham & Chapel Hill, Lyft's experience was already sub-par. 
+  
+  2. For our team to hit 5 minute ETAs in our small geo, we needed more drivers on the road AND we needed existing drivers to drive when the demand was. 
+  
+  So we did tons of top of funnel marketing: ads, driver referrals, and flyers were the best performing methods. And for existing drivers, we looked closely at the real-time data and we'd design targeted incentives. 
+  
+  When we saw rider demand not being met, we'd target X number of drivers with extra financial incentives to drive during those times so all ETAs were under 5 minutes. Yes, we burned money to meet rider demand. And it worked. 
+  
+  3. As we grew our small geo in Raleigh and more and more rides were under a 5 minute ETA, we started to build a driver base in Durham and Chapel Hill. We did driver onboarding events, we advertised that we were  coming soon  and we built up supply so come launch day, we'd cover the area well. And 3 months after we launched Raleigh (and 3 months behind Lyft), we launched Durham and Chapel Hill nearly hitting sub-5 minute ETAs on day 1. 
+  
+  4. Uber had local city teams at this time. Meaning my team's sole focus was on the Raleigh-Durham area. We lived, ate, and breathed Uber Raleigh. I worked day and night to grow my market and ensure happy riders and drivers. I answered every single driver support ticket myself. 
+  
+  Lyft, on the other hand, had their company in SF overseeing the United States. They didn't have dedicated city teams. This meant when there were events going on in Raleigh, we knew about it and we'd make sure Uber drivers would be there. I don't know what Lyft did, but their presence lacked, and we'd win the big events. 
+  
+  And fast forward 6 months from launch, and Uber had a >90% market share in the Raleigh-Durham-Chapel Hill area. 
+  
+  Uber and Lyft's product wasn't different. Pricing wasn't different. But the go to market strategy, execution, and focus were night and day. 
+  
+  And it taught me a valuable lesson: you don't have to be first. You just have to be focused on what matters most.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+When Uber and Lyft both launched UberX in Raleigh, Uber had a vision to provide a fast and reliable service to their customers, and executed it masterfully. Through the launch of their services in a small 7 mile circle, working hard to ensure ETAs were under 5 minutes, targeted incentives to existing drivers, and local city teams dedicated to the Raleigh-Durham area, Uber was able to secure a 90%+ market share over the course of 6 months. This story serves as a lesson that success is not only determined by being first, but by focusing on the most important activities, having fast reactions in market, and understanding local demand.

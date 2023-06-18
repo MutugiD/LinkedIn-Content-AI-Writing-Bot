@@ -1,0 +1,46 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Uber raised over $16B in institutional money to fund its growth, 1,600x the average VC company. There's no doubt that funding played a huge role in the company's growth. 
+  
+  But as an employee in 2014, there was something that was a complete gamechanger I've only come to appreciate after the fact: 
+  
+  the complete alignment across the entire company towards a unified goal.  
+  
+  It sounds simple. But, aligning thousands of employees across dozens of offices around the world is no small task. 
+  
+  To do this effectively, Travis needed to be an incredible visionary and communicator of that vision. 
+  
+  When Travis spoke at the weekly team meeting, everyone listened. It was an hour per week that we all stopped everything we were doing, and listened to our leader.  
+  
+  Maybe more importantly, we all knew how our roles contributed to that mission.  
+  
+  I started as an Operations Manager in 2014 for Raleigh, NC. Not a big role by any means. But I knew exactly how my role contributed to the larger, global vision. I had clarity, ownership, and opportunity, and that contributed to a strong motivation to work my butt off and help the company succeed. 
+  
+  When Travis came to an Uber alumni event years later and took the mic to reflect and share some thoughts, the exact same thing happened. Everyone stopped. Everyone listened. And for 5 minutes, TK made me feel like I was there again, hustling as a team towards a shared goal. 
+  
+  The company's growth wasn't always glorious. It certainly wasn't pretty. But it was an amazing lesson in how important vision, leadership, communication, and alignment is for an organization.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Uber's remarkable success was largely due to the company's resonance with unified goal that transcended the geographical boundaries and unified thousands of employees under one mission. With Travis Kalanick's inspirational leadership and strong communication, everyone from the Operations Manager to the weekly team meetings was dedicated to working hard to accomplish this goal. Uber's growth was a testament to the power of vision, leadership, communication, and alignment in any organization.

@@ -1,0 +1,41 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Many launch a company and raise a pre-seed round where they give away 10-20% equity before they've even launched.  
+  
+  I avoided that and funded myself another way. Here's how: 
+  
+  
+  I found a consulting client that maximized money for time. I worked 5-10 hours per week for them and brought in $8.5k per month. 
+  
+  I had to end my other consulting engagements and focus only on the one that was going to deliver this specific result so I could focus 90% of my time on Mylance. 
+  
+  Having this cash come in paid my bills and allowed me to invest in Mylance while not giving away any equity in the company. 
+  
+  Over the first 12 months of running the company, I learned what worked and what didn't work in a relatively stress-free way, and then was able to raise a small round based on the traction we'd built up (at a higher valuation than I would've in the pre-seed arena). 
+  
+  Consulting was a game changer for me in so many ways. If you're a founder looking for supplemental income while you get your passion project or start-up off the ground, consider finding a few consulting clients to avoid that pre-seed round, or just give you more runway while you're finding PMF!
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+I have been successfully running my own start-up, Mylance, for the last 12 months without any external pre-seed funding equity. I found a consulting client that would bring in $8.5k per month that allowed me to invest in Mylance stress-free while not giving away any equity in the company. This gave me a much needed runway for the first 12 months to discover what worked and what didn't work. Now I'm able to raise a small round based on the traction I've built up, at a higher valuation than I would have had I gone with pre-seed. It's clear that gaining extra consulting clients can be a great way for founders to supplement their income and increase the success rate of their passion project.

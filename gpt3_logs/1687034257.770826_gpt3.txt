@@ -1,0 +1,40 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When I left Uber in 2018 to venture out on my own, I experimented a lot. One of those experiments was buying a small e-commerce website called VinoTwo. The product is a wine kit that includes a fun wine opener (the cork pops like a champagne cork), a vacuum pump to preserve the wine, a foil opener and an aerator.  
+  
+  I learned a lot and I automated the business: when someone buys a unit, there are zero action items on my end to fulfill the order. It turns out, the keys to grow this business (I believe) are targeted performance marketing and partnerships with other companies to sell for you (wineries, at events, etc.).  
+  
+  Now, I'm pursing other gigs and looking to sell this little business. This is a great way to dip your toe into e-commerce with a fully automated, fun product that's very cheap to run ($30 / month). 
+  
+  For this sale, you get ~80 units of inventory (~$2000 worth), the live website, manufacturer relationship, fulfillment center, social media accounts, and handed a business that is 100% fully automated.  
+  
+  Let me know if you're interested! 
+  Business Website: https://lnkd.in/g_ngnyc 
+  For sale at Exchange Marketplace: https://lnkd.in/gfFkJD8 
+  
+  If you like the product and want one, use sample30 for 30% off #opportunity
+
+================================
+END STORY
+
+I will write a coincise summary of the story after mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+After leaving Uber in 2018, I decided to experiment with e-commerce and bought the highly innovative VinoTwo wine kit. After successful operations, I am now interested in selling the business with ~$2000 worth of inventory, the live website, manufacturer relationship, fulfillment center, and social media accounts. All of this comes with a unique opportunity to test your skills in a fully automated, low-cost business. If interested, check out the website and Exchange Marketplace for details and make use of the sample30 for 30% discount.

@@ -1,0 +1,54 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+I save myself hours with of repetition with a $4.99 (one-time charge) app on my computer. 
+  
+  It's called aText. Here's what it does, and how I use it: 
+  
+  It replaces a shortcut of words with longer text. So, any time I need to repeat something, I save it as a shortcut and the next time I don't have to type it all out. 
+  
+  I use it for both things that I just don't remember, and then for longer copy.  
+  
+  Examples of things I just don't remember or don't want to write again: 
+  -Zoom link 
+  -Various Calendly links 
+  -Signatures 
+  -Links to various landing pages 
+  
+  So I will write out ;zoom and it will replace that text with my actual Zoom link. 
+  
+  Longer text includes: 
+  
+  -Asking people to book time with me: I write out ;ical and it replaces it with  I have my availability in Calendly here: https: //calendly. com/, or you can let me know some times that work and I'll send over an invite!  
+  
+  -Sharing more information about our lead gen tool: I write out ;leadsmoreinfo and it writes out multiple paragraphs about the tool and how to sign-up 
+  
+  This is a game-changer.  
+  
+  Yes, it costs $4.99 (one-time). Yes, it takes some time to set-up. And then it saves me HOURS every week. 
+  
+  Pro tip: I use  text replacement  on my phone for the same kind of shortcuts, and those also automatically sync with my Mac
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+I use aText, an app costing $4.99 that replaces shortcuts of words with longer text, to save tons of time every week. It's used for repetition, such as zoom links, various Calendly links, signatures and landing page links, as well as longer copy and conversations. The syncing with my Mac saves even more time. It's a game-changer!

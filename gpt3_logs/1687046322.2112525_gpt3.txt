@@ -1,0 +1,34 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Since 2019, I've made over $550k as a consultant working part-time and found a great recipe for what makes a winning proposal. 
+  
+  I use the same 4 sections every time, and it works. 
+  
+  I made a copy of the proposal that won me a $21k project a few years back. 
+  
+  Reply with the comment  proposal  & I'll send it to you for free
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Since 2019, I have been a successful consultant working part-time, making over $550k in revenue. I crafted a winning proposal formula and I'm willing to share it with you. This specific proposal I'm mentioning won me a $21k project. If you are interested, reply with the comment "proposal" and I'll be happy to send it to you for free.

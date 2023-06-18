@@ -1,0 +1,56 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+🎭  The Great Imposter: Unmasking the Fear Holding You Back in Your Consulting Business 
+  
+  Picture this: You step onto the stage of your life, the spotlight shining on you, and the audience anxiously waiting for your performance.  
+  
+  You're about to dazzle them with your expertise as an independent consultant. But suddenly, a nagging voice whispers in your ear,  
+  
+  You don't belong here. You're not good enough.   
+  
+  That's the voice of the Great Imposter, a notorious villain who's determined to sabotage your success. 
+  
+  Today we embark on a thrilling adventure to vanquish the Great Imposter and unlock your true potential as an independent consultant.  
+  
+  We'll journey through uncharted territory as we explore strategies to overcome imposter syndrome, kick-start your consulting business, and attract your first clients. So, buckle up and join me as we tackle the beast that's been lurking in the shadows, ready to pounce on your self-confidence. 
+  
+  First, we'll arm ourselves with the powerful weapon of self-awareness. Recognizing the signs of imposter syndrome is half the battle won.  
+  
+  Next, we'll reinforce our armor with a supportive network that believes in our abilities, even when we're struggling to see them ourselves.  
+  
+  With our newfound allies by our side, we'll confront the Great Imposter and dismantle its deceitful lies. 
+  
+  As we emerge victorious, we'll forge ahead to establish a solid foundation for our consulting business.  
+  
+  From creating an irresistible value proposition to leveraging our existing connections, we'll navigate the path to success with determination and grit. And soon enough, we'll attract our first clients, the ultimate proof that we've conquered our fears and taken control of our destiny. 
+  
+  Stay tuned as we embark on this epic journey, and remember: the Great Imposter may be a formidable foe, but it's no match for the unwavering spirit of a true independent consultant.  
+  
+  Together, we'll send the Great Imposter packing and reclaim the stage that's rightfully ours. 🚀 
+  
+  This week we'll cover the top 4 things you can do to overcome that inner villain, starting with tomorrow's topic: nailing your niche and ideal client so you bring clarity and confidence into your business.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+It's time to face the Great Imposter: the villain inside all of us preventing us from reaching our full potential as consultants. Through self-awareness, supportive networks, and grit, we can confront the lies of the Great Imposter and take control of our destiny. From creating an irresistible value proposition to leveraging existing connections, this week we'll cover the four pillars of a successful consulting business, starting by nailing down our niche and ideal client. Together, we can leave the lies of the Imposter behind and reclaim the stage to show what we've got.

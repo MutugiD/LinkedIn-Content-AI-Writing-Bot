@@ -1,0 +1,46 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+The trait that has probably helped me the most in my career: I've never been afraid to ask for what I want.  
+  
+  I don't know where it came from. But time and time again I've asked for what I want and it's gotten me so much more than I could've imagined. 
+  
+  After I graduated college I interned at a start-up. They wanted to give me cash and instead I asked for a half equity and half cash split. They gave it to me, and fast forward 12 years and the company is doing great and on track to get sold. 
+  
+  At Uber I asked if I could launch Uber Eats in Europe. 1 month later I was on a plane to Amsterdam and ended up owning the Milan, Italy launch. 
+  
+  I wanted to help start-ups part-time instead of full-time. I asked 12 companies. 1 said yes, and became my first client at $250/hr at 25 hours per week. I worked with them for 9 months and kicked off an amazing few years consulting.  
+  
+  In the middle of a networking call with a former colleague who wanted to launch her own consulting business, I asked if she wanted help in exchange for a rev-share. She accepted, which eventually kicked off an Accelerator program helping tech professionals launch 6-figure consulting businesses. 
+  
+  I don't know where I'd be in my career if I wasn't willing to take the risk, ask for what I want, and be willing to hear a  no.  Often, I'll get a  yes  and each  yes  has changed my life in ways I never could've imagined. 
+  
+  You have nothing to lose and everything to gain by asking for what you want.  
+  
+  If you're not asking for what you want, something is probably holding you back. Finding a coach or therapist to work through that issue with you can be one of the best investments you can make in yourself. 
+  
+  If you're brave enough, share in the comments something that you want to achieve but haven't gotten out there to go for it yet!
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+If there’s one lesson that I’ve learnt in my career, it’s that taking risks and asking for what I want can get me far. Whether it was a half-cash, half-equity interning offer, leading Uber Eats in Europe or advising start-ups for a rev-share, I have been rewarded for my audacity. You have nothing to lose, except for the fears that hold you back. It is important to confront these with the help of a coach or therapist. If any of you have something you want to achieve, don’t be afraid to shout it out in the comments.

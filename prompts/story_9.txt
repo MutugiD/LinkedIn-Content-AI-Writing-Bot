@@ -22,4 +22,8 @@ When I left Uber, I knew I wanted to do something on my own. I didn't know what,
 ================================
 END STORY
 
-I will write a spinned story after mastering the tone, persona and style of writing when prompted: 
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+

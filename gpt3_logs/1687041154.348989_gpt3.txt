@@ -1,0 +1,42 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When I left Uber, I went through my LinkedIn inbound messages and responded that I wasn't open to full-time jobs, but I would be open to helping part-time as a consultant.  
+  
+  It was a shot in the dark. I had no idea if this was possible for someone like me. 
+  
+  I responded to 12 companies. 11 said  no  or didn't respond. 1 responded favorably, and asked to talk further. 
+  
+  That one company who did respond ended up being my first consulting client.  
+  
+  You're not going to shoot 100%. Or even 50%. But if you put yourself out there enough times, you're going to eventually find success. 
+  
+  I didn't know what was possible until I asked for it. And turns out not only was it possible, but it would change my life forever. 
+  
+  What do you have to lose? The bigger loss is not ever trying. 
+  
+  #justtryit #putyourselfoutthere #makeithappen
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+When I left Uber, I put myself out there and asked for something impossible: doing part-time consulting. Against all odds, I managed to convince one company to hire me, and that would end up changing my life forever. It's not easy to take a chance and put yourself out there, but in the end, the bigger loss is not trying. #justtryit #putyourselfoutthere #makeithappen

@@ -1,11 +1,1 @@
-The success of Uber is a testament to the power of operations. From experimentation to launching cities, ops teams played a key role in growing the company from a small startup to a multi-billion business in a few short years. 
-
-Experimentation was key to Uber's success. The ops teams had to prove the ROI and use case of new features, so they built hacky solutions to A/B test them. Once they got statistically significant results, they'd share the data with the product teams so they could determine what features to include in the roadmap. 
-
-New city launches were another important part of the Uber success story. Designated city launchers would travel to new locations, launch the business, and hand off the operations to a GM or city team. This team would manage the regulations, acquire customers, set up the internal tools, and run a quick marketing plan before moving on. 
-
-The ops teams also acted as city CEOs. In the early days, city teams had full ownership over their cities. They had control over communications, pricing, incentives, events, and loyalty programs. This gave the city leaders the authority to make decisions and grow their cities, and the results spoke for themselves. 
-
-Finally, Uber didn't hire taxi dispatchers to build a global ridesharing operation. Instead, they sought experienced leaders from tech, consulting, engineering, and finance. They had the talent to run operations, marketing, and finance and the EQ to be customer-facing. The fact that they weren't biased by the traditional taxi or black car industries allowed them to think outside the box and create innovative solutions. 
-
-Uber's success is a testament to the power of operations. From experimentations to launching cities, the operations team had a large role in helping the company grow to become a global business.
+Uber has seen tremendous success in a short period of time due to the innovation and creativity of its Ops teams. They experimented with new product features to test their ROI, quickly launched into new cities, empowered city teams to run their own operations, and recruited tech-savvy professionals rather than hiring from the taxi industry. These measures have been integral for Uber's success and have provided a great example of how tech companies can Scales quickly.

@@ -1,0 +1,64 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+We know what we need to do to hit our goals. But we procrastinate. We distract ourselves. We work on everything except for what we need to be doing. 
+  
+  Here's why (and how you can overcome it). 
+  
+  Doing the thing we NEED to do is often scary. It comes with the potential of rejection. It forces us to face a fear. 
+  
+  So, we subconsciously put it off. 
+  
+  We don't send that outreach email. We don't send that proposal. We avoid getting that feedback.  
+  
+  Instead, we respond to emails in our inboxes and text messages from our friends. We read the news and scroll through social media. 
+  
+  We subconsciously know that none of that stuff moves the needle. But we do it because it's comfortable. It's easy. 
+  
+  For me, I love building models. I love modeling how Mylance can grow. At this point, I've built at least 50+ models for projecting Mylance's growth. Guess how much that moves the needle? Nearly zero. It's just in my comfort zone. 
+  
+  Here's what I'm doing to overcome this (feel free to steal it from me!) 
+  
+  1. I have very clear objectives for what I want Mylance to achieve in the next month, quarter, and year. 
+  
+  2. I write my monthly goal at the top of my to-do list.  
+  
+  3. Before the week starts, I write my  big rocks  for the week, along with 2  must-do  items for Monday.  
+  
+  I check if these items specifically contribute (i.e., do they move the needle) to my monthly goal that's right above the to-do list. If they don't, I remove them. 
+  
+  4. When the work day starts, I tackle my  must-do  items before anything else happens. I don't open email or Slack. I don't respond to anyone. I knock out those needle moving items. It's the ONLY thing that matters in that moment. 
+  
+  This way, I can't procrastinate. I can't distract myself. I can't rationalize that I'll  do it tomorrow.   
+  
+  You know the things you need to be doing.  
+  
+  But sometimes, they're scary.  
+  
+  And that's okay.  
+  
+  But if you want to do the hard thing and grow, then we have to look at that scary thing and say  I see you,  and do it anyway.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+We often act in self-sabotaging ways, procrastinating on tasks we need to be doing instead of getting distracted by comfortable or easy activities. To overcome this we need to have clear objectives and strive to make sure our efforts are moving towards our end goals. We should also create a to-do list with our big rocks and must-do items, and tackle those before anything else. It can be scary to do the hard thing, but we can look at that fear and do it anyway.

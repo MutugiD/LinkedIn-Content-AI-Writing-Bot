@@ -1,7 +1,1 @@
-When I tell people that Uber Freight became a $1B brand in two years, they're often surprised. They think it’s because of Uber’s deep pockets and hefty investments. The truth is, the magic was a little more subtle than that. 
-
-The first two steps we took had nothing to do with money. We went to truck stops in Dallas, Texas and spoke to hundreds of truck drivers. We asked them questions about their struggles, took detailed notes, and compiled our findings. This allowed us to gain valuable insights into what our product should look like and how to best serve our users. 
-
-We also did things that didn’t scale. We manually moved freight loads so that we could understand the complexities and nuances of the process. This gave us an opportunity to build relationships that would be invaluable when the tech was ready. 
-
-At the end of the day, it’s not how much you have that matters. Sure, having the resources to hire talented people is great, but there’s no substitute for understanding your users and creating tech that they’ll actually use.
+Uber Freight grew from an idea to a $1B brand in just two years, but this was not due to a lavish injection of resources. Instead, the team relied on talking to users, engaging in manual operations, and building relationships with customers to get the product off the ground and develop the market fit. It goes to show that while resources can help, success ultimately comes down to the determination and hard work of the team.

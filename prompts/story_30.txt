@@ -1,0 +1,47 @@
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+The Freight market in the US is an $800 billion industry, with the Freight Brokerage market being ~10% of that at $80+ billion.  
+  
+  Here's how Uber Freight started from scratch, broke in, and became worth $1B within 2 years of being founded. 
+  
+  First, Uber acquired Otto. The acquisition was originally for self-driving tech, but the small team at Otto was also in the process of building a freight marketplace, so Uber inherited that in the acquisition, and with the acquisition, the team kept building the freight marketplace.  
+  
+  Things that don't scale 
+  At this time (early 2017), all loads were moved manually. We were using antiquated freight software, calling truck drivers manually, and moving loads the traditional way: with emails, texts, calls, and old software. We probably moved 5-10 loads per day. 
+  
+  User Research 
+  At the same time, we were building tech. But we didn't know exactly what to build. We needed to do user research and figure out the problems to be solved and jobs to be done. 
+  
+  So a small group of us would jump on a flight, go to Dallas, TX, and go to truck stops. There we'd interview as many truck drivers as we could, learn their problems, document everything, and compile the results. 
+  
+  Shipper Sales 
+  At the same time, shipper sales reps reached out to medium and enterprise shippers getting loads. They would sell shippers on the future vision of Uber Freight: a digital marketplace where you could track your loads in real-time. By selling the vision, they had a lot of early success, and of course, having the  Uber  name helped a lot in these conversations. 
+  
+  Product Development 
+  Based on our research, we decided to build a driver-facing app that allowed them to book a load directly. While not novel tech, this was quite novel for the freight industry as drivers were used to haggling over the phone.  
+  
+  As a team, we wanted to grow and move more and more loads. So once the tech was built, we'd try to get as many drivers to use the app as possible. We'd call them, onboard them onto the app, and teach them how to use it. 
+  
+  We hired a team of call agents who would spend all day every day calling drivers. We found that onboarding them onto the app was useless unless we had a load for them. So we'd actually look at the loads first, then call drivers in that area and onboard them onto the app to accept that load. The more well-paying loads we had, the better our driver app adoption was. 
+  
+  And that's what we focused on for 2 straight years. When we couldn't get a load taken on the app, we had a team moving freight manually, as our commitment to the shipper was getting the load moved. 
+  
+  It was a constant balance between growth, automation, and margin, and the entire team would hustle incredibly hard to become a relevant line item before the Uber IPO.  
+  
+  And by the time Uber would go public, the business unit would be a material line item and is now valued at over $4B, only 5 years after being founded.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+

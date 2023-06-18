@@ -1,0 +1,49 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+The truth is I struggle with imposter thoughts.  
+  
+  And many customers I talk to admit the same.  
+  
+  Here’s what I do to deal with it and overcome it: 
+  
+  1. I list out my accomplishments. It might sound silly, but it has a huge impact on how I look and feel about myself professionally. I think about the products I’ve grown, the people I’ve impacted, the managers who went to bat for me. I write it down and I look at it monthly. 
+  
+  2. I meditate on and then list out my biggest goals. I have to know where I want to go for me to get there. So I think hard about them and I write them down: 1 year goals, 5 year goals, 10 year goals. They can change, but it’s important for me to have them down. 
+  
+  3. I write down worst case scenarios. I have plenty of fear of failure. Who doesn’t? Writing down the worst case scenario helps me proceed anyway because it’s often not as bad as I think. E.g., if I quit my job, go out on my own, and completely strike out for 3 months, will I be OK? Could I get another job? Usually, the answer is yes and the bigger worst case scenario is never trying on my own. 
+  
+  4. Journaling. I journal a lot. Nearly every day now. I journal the thoughts in my head. I get them down on paper which gets them out of my head. It helps me to stop worrying in my down time, add them to my to-do list, and work on them during productive working hours. 
+  
+  5. I surround myself with motivated, high-value people all pursuing their dreams. The reality is if you put yourself out there and try new things, you’re going to fail a lot. That’s part of being successful, and the more I can normalize it and surround myself with people that try, make mistakes, and try again, the more normal it becomes to me and I embrace the “failures” (which really aren’t failures at all). 
+  
+  In reality, the only “failure” would be not trying at all. And that is certainly not how I’m going to define my life.  
+  
+  I’m going to give it my all. Try new things. Make mistakes and try again. And along that way, I’ll keep finding success, one step at a time. 
+  
+  What about you? How do you deal with your imposter thoughts? 
+  
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Struggling with imposter thoughts is common among many customers, and I use specific strategies to overcome them. I list out my accomplishments to remind myself of the successes I achieved, and I write down my biggest goals for the short and long term. In addition, I jot down my worst case scenarios as a reminder that nothing is as bad as it may seem. I also journal to release the thoughts in my head and surround myself with others with similar aspirations to remind myself that making mistakes is part of the process, and never to give up on my dreams.

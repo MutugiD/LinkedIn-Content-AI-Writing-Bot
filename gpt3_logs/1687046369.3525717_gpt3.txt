@@ -1,0 +1,32 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Looking for your next consulting client? 
+  
+  I'm thinking of doing a 30-day challenge where I give you step by step to find your first consulting client and we all go through it together. 
+  
+  Give this a quick like or comment if that's something you'd be interested in
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Are you looking for your next consulting client? Join me on a 30-day challenge where I'll provide you with step-by-step instructions. If this sounds like something you want to join, don't hesitate to show your interest by liking or commenting.

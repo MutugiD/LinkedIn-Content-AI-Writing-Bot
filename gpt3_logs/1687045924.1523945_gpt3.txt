@@ -1,0 +1,38 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Going out on your own is hard. There's no silver bullet to success and there are often a lot of imposter thoughts. 
+  
+  But it's also lucrative: 44% of independent consultants say they earn more than with a traditional job. 
+  
+  And even more importantly, the flexibility and ownership is unparalleled: these people are not going back: 60% of new solopreneurs agree that there is no amount of money that would convince them to take a traditional job. 
+  
+  Mylance isn't going to hand you a business in your lap, but we do give you the community, resources, templates, and support that will help you get off the ground and thrive. 
+  
+  And oh, we're working on a lead generation engine for your business! 
+  
+  We've helped hundreds of talented professionals like Jordan Regenie, and I couldn't be more excited about this wave of professionals going out on their own!
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+The ability to go solo and become a freelancer or solopreneur offers its own set of challenges, but it can also deliver great rewards. With 44% of independent consultants saying they earn more than with a traditional job, and the flexibility and ownership being unparalleled, it's no wonder more people are opting out of working for others and striking out on their own. Mylance provides the community, resources, templates, and support that help get solopreneurs off the ground and succeed. Plus, an upcoming lead generation engine will make it even easier for freelancers to reach their own level of success. Jordan Regenie is just one of the hundreds of professionals that Mylance has helped to find success!

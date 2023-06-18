@@ -1,0 +1,44 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When I first started consulting, I would tell clients  I worked in Operations at Uber for 4.5 years. 
+  
+  They had zero idea what that meant.  
+  
+  Over time, I learned, tested, and honed my niche.  
+  
+  I learned to say  I launch and scale 2 and 3-sided food delivery and logistics marketplaces for tech start-ups. 
+  
+  I get asked all the time: what makes a great Freelance Consultant? 
+  
+  How you package your experience and skillset to a potential client is everything.  
+  
+  With my first pitch, nobody knew what I did. With the latter, a client knew exactly what I could do for their company, and if their challenges were related to my expertise, they would inquire to hear more and it set me up to find a project with them.  
+  
+  The first exercise we go through in the Mylance Bootcamp helps our customers hone their niche and frame their experience in a way that easily and tangibly communicates what they do. It can make all the difference in closing a 5-figure per month consulting deal!  
+  
+  #consultingtips #launchyourconsultingbusiness #findyourfirstclient #MylanceBootcamp
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Starting out as a consultant, I learned that it is important to package your skillset to potential clients so they understand what you can do for them. Having a well-defined niche is instrumental to success in this regard. That's why the first exercise in the Mylance Bootcamp helps customers hone in and frame their experience in a way that speaks to a client's needs and challenges. Doing this can make all the difference in closing a consulting deal worth five figures a month.

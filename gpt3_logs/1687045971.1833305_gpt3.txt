@@ -1,0 +1,44 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Starting a company had always been a dream of mine. Over the past 15 years, I've started working on over 10 new ideas.  
+  
+  The problem? I never kept going. Until now. Here's how it would go: 
+  
+  I would get excited about an idea. Probably buy a domain. I'd work for a few weeks or a few months on it, and then I'd stop. I would hit a roadblock, or get bored, or get discouraged, and I'd stop. 
+  
+  I was frustrated at not having any follow-through.  
+  
+  September 1st, 2019 I decided enough was enough. I put my head down to start my own business around a problem and customer I truly cared about. 
+  
+  No matter how hard it was, I kept moving forward. Every day, another step forward. I took a vague idea and ran with it. I picked a name, bought a domain, incorporated it, and got to work. I decided that nothing was going to stop me from building it - I was all in and frankly, I think that's what it takes. 
+  
+  Because starting a business is HARD. There are no shortcuts and it's not an easy path.  
+  
+  There's no right time to start a business and there's no  right idea.   
+  
+  There's just a problem you care about, and then a ton of grit, hustle, and hard work. And now I can say that I've followed through, instead of just starting a business.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+For 15 years, I had dreamed of starting a business. The reality was no matter how excited I got about an idea, I would hit a roadblock, get bored, or discouraged, so I would eventually stop. In 2019, I made a commitment to myself to no longer quit- this time, I was all in. I took a risk on a problem and customer I truly cared about, investing time, energy, and grit, and I kept going no matter how hard it was. Now, I'm proud to say that I followed through on my dream. There's no right time or right idea to start a business, but it will take a lot of hard work and hustle to succeed.

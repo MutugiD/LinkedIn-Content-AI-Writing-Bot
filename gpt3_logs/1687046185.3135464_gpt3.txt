@@ -1,0 +1,54 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+On a call, there's one thing I do that has helped me win clients more than anything else. 
+  
+  It's not complicated, and anyone can do it.  
+  
+  It's asking thoughtful, curious questions. 
+  
+  Asking great questions does a few things: 
+  
+  1. If you can ask thoughtful questions in an area of your expertise, you showcase your experience indirectly. Ask how they are thinking about XYZ (your area of expertise). Keep asking until you get to a point where they don’t have a great answer. They might turn it around on you and ask for your help! Boom, you have a client. 
+  
+  2. It shows you’ve done your homework, and they like that you’re interested in them. 
+  
+  3. It gets them talking. People like talking, and especially about themselves and their business. 
+  
+  4. You’ll learn a lot about their business and specifically areas they need help (hint: this is key!).  
+  
+  Examples of good questions: 
+  
+  1. What in your business is keeping you up at night? 
+  2. What is your two biggest business goals right now?  
+  3. What's holding you back from accomplishing those goals?  
+  4. What are 2 things that could happen right now that would make a step change difference for your business? 
+  5. How do you think about scaling your business without adding tons of headcount? 
+  
+  When they answer, take detailed notes. You'll use these responses in your proposal. 
+  
+  I've won clients simply by being curious, and then sharing my perspective or how I solved similar problems in my past!
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Asking thoughtful and engaged questions is paramount in winning over potential clients. Doing so showcases your knowledge of the subject, your interest in the client and your ability to listen and understand their goals. Examples of good questions include asking what up can keep them awake at night, what their two biggest business goals are, what could make a step change difference for their business, and how do they think of scaling their business. Taking notes of the answers is also key as it will help you tailor your presentation. Even better, if you can provide examples of how you solved similar problems, you can be sure that you’ll be one step ahead ahead of the competition.

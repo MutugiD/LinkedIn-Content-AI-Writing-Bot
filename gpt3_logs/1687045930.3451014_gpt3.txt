@@ -1,0 +1,43 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+You:  I just don't know if my experience is really that valuable or if I can consult in my area of expertise. 
+  
+  CEO of Seed company:  Can you give me some insight into how you scaled Uber Eats in 5 different markets? 
+  
+  You:  Of course, let me share the playbook with you and help you avoid 10,000 mistakes. 
+  
+  CEO of Seed company:  Holy s*** you just saved me a ton of trial and error, and by executing this playbook, we can raise our Series A! 
+  
+  You now: Not charging enough, not valuing your experience, having imposter thoughts, and wondering if you can do it. 
+  
+  You soon: Flexible work, charging based on the value you provide, winning monthly retainers, no BS politics, enjoying the people you work with, having free time and flexibility in your work life, and making more than you did in a full-time W2 job. 
+  
+  Don't undervalue your experience. Please.  
+  
+  Sincerely, 
+  Bradley and Mylance
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Don't sell yourself short. With the right experience and knowledge, you can achieve far more than you could imagine. This story of how one individual leveraged their expertise to assist a CEO of a seed company to scale Uber Eats in five different markets, and save the company from millions of dollars worth of trial and error, shows the immense worth that one has to offer. This serves as a reminder that if you value yourself and remain confident in your abilities, then dramatic results—from achieving more flexible work, to monthly retainers and more—can be obtained.

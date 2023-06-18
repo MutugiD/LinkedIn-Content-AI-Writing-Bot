@@ -1,0 +1,51 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+When I started consulting, it felt like a complete black box and took me ~12 months of trial and error to feel comfortable and confident. 
+  
+  And I made a LOT of mistakes along the way. 
+  
+  We hear from our customers they want to skip that trial and error. So we wrote up a comprehensive playbook detailing the exact steps to launch and grow your consulting business. 
+  
+  Including how to: 
+  
+  1. Hone your niche 
+  2. Find clients 
+  3. Price your services 
+  4. Set up your LLC 
+  5. Scope out a project 
+  6. Write up a great proposal 
+  7. Negotiate and close 
+  8. Contracts  
+  
+  ...and a ton more 
+  
+  I'm acutely aware of all the tech layoffs, and it seems like many folks are interested in working on their own instead of finding another W2 (or in addition to finding a W2!) 
+  
+  At Mylance we really want to do something to help, so we're thinking of releasing this playbook for a significant discount to folks who've been laid off recently. 
+  
+  Is that something you'd be interested in? Let me know in the comments below
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+The demand for practical ways to launch and grow a consulting business has grown over the years. In response, our team has developed a comprehensive playbook with detailed step-by-step instructions on how to hone your niche, find clients, price your services, set up an LLC, scope a project, write proposals and close deals. We are aware of the recent tech layoffs and now intend to offer this playbook at a discounted rate to those affected, in order to help them achieve their goals and become successful entrepreneurs.

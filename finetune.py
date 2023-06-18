@@ -41,9 +41,8 @@ def finetune_get(ftid):
     pprint(resp.json())
 
 
-
 resp = file_upload('brad_writing.jsonl')
-finetune_model(resp['id'], 'brad_writing', 'davinci')
+finetune_model(resp['id'], 'brad_writing-50', 'davinci')
 finetune_list()
 
 #openai.FineTune.cancel("ft-2ZxHjUVe5DpqK2EsYyA0YtKz")

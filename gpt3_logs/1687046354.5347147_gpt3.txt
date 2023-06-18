@@ -1,0 +1,67 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+As much as I wanted freedom from the corporate world, once I had it, I missed it. And it resulted in existential questions I could not have foreseen.  
+  
+  Here's what happened to me: 
+  
+  Even though I was having financial success, going out on my own caused a huge amount of emotional confusion.  
+  
+  In corporate, I was used to a very set structure: 
+  
+  I'd go into the office at mostly the same time in the morning. I had a to-do list, meetings to attend, and a boss to report to. 
+  
+  I had a salary and title. I'd get predictable % raises from the salary, a pretty clear idea for the promotion timeline, and what bonus I could expect at each level. 
+  
+  I had performance reviews and a weekly 1:1 (some of the time) where I'd get structured feedback and evaluations based on my performance.  
+  
+  **But when I went out on my own, that all disappeared.** 
+  
+  I didn't have to be anywhere at a given time. I had maybe 2 meetings a week. I could sleep in, work from the beach, or not work at all any given day.  
+  
+  I had no structure. I'd pitch my own compensation that varied from project to project. I had no title. I got nearly no feedback (unless I forced a Google form on them). 
+  
+  This might sound great. And honestly, it was. But it was also incredibly confusing. I often had existential questions:  
+  
+  Am I doing well? 
+  
+  Is this ok? 
+  
+  Should someone at 30 be doing this? 
+  
+  Why do we even work? 
+  
+  I needed to add my own structure to the confusion. And all of a sudden, I had: 
+  
+  1. A morning routine 
+  2. Set times to work along with meetings with myself on different topics 
+  3. Feedback requested from clients so I could learn and improve 
+  4. Goals for myself so I knew what  good  looked like 
+  
+  And now I had a structure of my own that eerily resembled the structure I had in corporate.  
+  
+  The difference was, I got to choose it. And I got to change it. Whenever I wanted. And that was empowering and freeing. Making me never want to go back.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+In this story, a professional found themselves feeling existential confusion after leaving the corporate world. They found a new structure of freedom and empowerment by implementing a daily routine, research and feedback from clients, and goals of their own to reach. This newfound structure allowed them to never want to go back to their previous corporate life.

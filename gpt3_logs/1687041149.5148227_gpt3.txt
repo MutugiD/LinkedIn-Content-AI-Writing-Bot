@@ -1,0 +1,48 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+How do I get started with my consulting biz? 
+  
+  First, do not waste your time with these activities: 
+  
+  1. Designing a logo. 
+  2. Making and publishing a beautiful website 
+  3. Writing up a business model 
+  4. Modeling out your expenses, projections, etc. 
+  5. Talking to 1,000 people about their consulting businesses 
+  
+  These are  feel good  activities that are relatively easy, have no stress or possibility of rejection, and don't move the needle. 
+  
+  Instead, do these 3 things: 
+  
+  1. Decide on your niche: where you uniquely add value and the customer to whom you add that value  
+  
+  2. Reach out to your network (past colleagues and managers) and have 20 conversations 
+  
+  3. Reach out to 20 companies per month in your niche and talk to as many that will talk to you 
+  
+  Those are needle-moving activities. And those will result in your first client.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Are you a consultant looking to get your business off the ground? Don't spend time doing activities like designing a logo, creating a website, or analyzing expenses. Instead, focus on the three most important tasks: decide on your niche, reach out to your network, and connect with companies in your niche. With this strategy, you can soon achieve your goal of getting your first client.

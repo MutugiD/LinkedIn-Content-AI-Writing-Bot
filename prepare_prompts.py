@@ -1,5 +1,11 @@
 import os
 
+
+prompts_dir = "prompts/"
+
+if not os.path.exists(prompts_dir):
+    os.makedirs(prompts_dir)
+    
 def read(file):
     with open(file, 'r', encoding='utf-8') as infile:
         return infile.read()

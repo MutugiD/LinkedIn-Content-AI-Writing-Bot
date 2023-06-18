@@ -1,0 +1,48 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Q1 2019, Uber lost nearly $1 billion when it reported earnings. 
+  
+  And this wasn’t new: the company often lost nearly $1B per quarter as we heavily invested in the global expansion of Rides and Eats and then additional but significant bets on Autonomous Vehicles, Freight, and VTOL (flying cars). 
+  
+  My experience in 2014 reflected this.  
+  
+  As crazy as it was, when I first started we didn’t have a P&L for each city (we soon did get one!) but the truth is, we were focused on growth, and the company was willing to invest heavily in rider and driver incentives to scale quickly and fend off the competition. 
+  
+  When I launched Uber Eats in Miami, I had to come up with a 12-month P&L for the city.  
+  
+  By the end of the 12 months, the model showed us squeaking out a profit (barely). When the Head of Uber Eats questioned me on it, I didn’t have much of a response: the unit economics of that business were brutal, and only a perfectly run marketplace would make any money. 
+  
+  Fast forward to today, excluding a UK settlement, free cash flow for Uber was $430 million for Q4 2022. 
+  
+  Further, the Delivery business line brought in an adjusted EBITDA of $241 million in Q4 2022.  
+  
+  While I’m not on the inside anymore, I can’t understate this incredible achievement for the entire Uber team. 
+  
+  While it certainly wasn’t perfectly executed (far from it!!), the people that built Uber from day 1 until today have a ton to be proud of in bringing a life-changing company to cities around the world, taking on billions of VC money, going through an up and down rollercoaster of wins and failures, to a profitable, growing, sustainable company. 
+  
+  Congrats team!
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+From making heavy investments in global expansion to launching Uber Eats in Miami, Uber worked hard to achieve profitability in Q4 2022. The journey wasn't without challenges, but the team behind Uber's growth should be proud of their successes. Despite the tough road they have taken, Uber has now accomplished huge milestones and delivered life-changing services around the world. Congratulations to the entire team!

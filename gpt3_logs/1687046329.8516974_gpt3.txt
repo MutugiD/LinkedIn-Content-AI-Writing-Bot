@@ -1,0 +1,57 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+We're doing re-introductions in the Mylance community and it occurred to me I should probably do that to my LinkedIn community as well!  
+  
+  So here's a bit about me and my path to running Mylance today: 
+  
+  I’m Bradley! After 4.5 years at Uber: managing 9 markets in the North Carolinas, launching Uber Eats in Miami and Milan, and 2 years launching and running the Carrier Ops team at Uber Freight, I went out on my own as an independent consultant. 
+  
+  On my own, I averaged over $25k/ month in 25 hours a week across a dozen clients in 2 years, mostly for Seed and Series A companies helping them launch and scale their marketplaces. 
+  
+  Throughout this process, I became really passionate about part-time work and how it enables you to follow your passions, spend more time with your family, and own your work schedule.  
+  
+  It provides the ultimate flexibility.  
+  
+  I also felt the pain-points of my own business: admin work, finding new leads, bookkeeping, etc. 
+  
+  So, in early 2020, I founded Mylance to help professionals launch and grow the consulting businesses!  
+  
+  I think everyone with at least 5 years of experience is capable of part-time work to supplement and replace their W2 income (sometimes 4-6x more!) and I’m really excited to continue working in this space, supporting everyone who wants to be out on their own, monetizing their experience. 
+  
+  We have some exciting new products we’re working on all aimed at making lead gen in 2023, and the Mylance team is working tirelessly to build products and services to make your lives easier.  
+  
+  A few personal tid-bits: 
+  -Born in NYC but grew up in Fort Lauderdale 
+  -Lived in DC and SF for 4.5 years each, now in Austin, TX 
+  -Went to Duke studied Mechanical Engineering 
+  -Top hobbies: golf, tennis, wine, hiking, fishing, anything on the water, sports 
+  -Top teams: New York Giants, Florida Panthers 
+  -Don’t have a dog currently but very excited to get one when I’m more settled! 
+  
+  If I haven't met you yet, would love for you to say hi in the comments! 
+  
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+After four and a half years at Uber, Bradley decided to pursue his entrepreneurial and freelance dreams and set out on his own to work with startups. With the help of Mylance, he hopes to provide part-time professionals with the opportunity to follow their passions, and make four to six times the W2 income. A New Yorker born and raised in Fort Lauderdale, Bradley earned an Engineering degree at Duke before going out on his own. He loves the outdoors, sports, and is looking forward to getting a dog. If you haven’t met him yet, now is your chance to say hello!

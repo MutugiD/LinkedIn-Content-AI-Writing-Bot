@@ -1,0 +1,62 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+The need to differentiate yourself as a fractional executive is obvious.  
+  
+  But what separates one Fractional COO/CMO/CFO from another? 
+  
+  Let's look at some examples to differentiate and win clients: 
+  
+  1. Industry experience: you can be a Fractional COO differentiated in an industry, specifically one that largely benefits from industry experience. E.g., Healthcare has lots of regulation and nuance, so having this experience will matter a lot to your clients. 
+  
+  2. In conjunction with another function. Let's say you're a Fractional COO but also have finance experience. This adds value to your clients because you can do more than just Operations, and bringing on fewer people with varied experience is a value-add. 
+  
+  3. Adding skills to your title. Comparing a  Fractional COO  with a  Data-Driven Fractional COO with SQL, Python, and R expertise  is night and day. While the company may not have these as an immediate need, it's certainly nice to have for the future and makes you an obvious choice over someone without these skills. 
+  
+  4. Company-building experience. Let's say you're a Fractional COO who was also a founder with fundraising experience. Adding this experience to your pitch is a huge differentiator to the right client. Call out a specific, value-add experience you've had that bolsters your pitch. Examples could be fundraising, sales, marketing, design, or analytics (and there are thousands more). 
+  
+  5. Tenure. Do clients want to hire brand new Fractional COOs or experienced ones? It seems obvious, but it's left out of many niches. If you have 10 years of experience, call that out. A  Fractional COO with a decade of experience  sounds a lot more compelling than just a  Fractional COO. 
+  
+  Put this into practice: 
+  
+  1. Fractional COO specializing in Cannabis 
+  
+  2. Fractional COO with an Accounting background 
+  
+  3. Data-Driven Fractional COO with SQL, R, and Python Experience 
+  
+  4. Fractional COO with additional experience in marketing funnels and email copywriting 
+  
+  5. Fractional COO with a decade of experience 
+  
+  Make it even more powerful with a combination of these: 
+  
+  I'm a data-driven, Fractional COO with a decade of experience navigating the Cannabis Industry, with additional expertise in SQL, R, and Python. 
+  
+  You're no longer a Fractional COO. Now you're differentiated, and the Cannabis founder that needs Operational support is going to say  this person is for ME. 
+  
+  And that's exactly what you want.
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+As a fractional executive, standing out from the competition by emphasizing industry and company-building experience, unique skills, and tenure is essential. Showcasing these unique talents in combination can help solidify a customer's decision in choosing you over another candidate. Examples include being a data-driven Fractional COO with a decade of experience in the cannabis industry and additional expertise in SQL, R, and Python or a Fractional COO with additional experience in marketing funnels and email copywriting.

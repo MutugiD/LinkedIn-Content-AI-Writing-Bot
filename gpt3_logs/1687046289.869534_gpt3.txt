@@ -1,0 +1,40 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+Six years ago today I walked into the Uber office for the first time, and was immediately confronted by my new boss trying to figure out SQL to correctly pay the drivers. 
+  
+  I had left a great job in consulting to take a leap into this start-up. Yes, it was a start-up. I was onboarding drivers manually. We were handing out phones. I went down to UNC during orientation with my pitch, and why riders should sign up. Most didn’t want to give their credit card info to “some app.” 
+  
+  While consulting, I got one piece of advice that made joining Uber easier. A 5 year vet at the firm told me,  Bradley - you can get very comfortable here. Don’t. If you get an opportunity, take it. You can always come back if it doesn’t work out. 
+  
+  Taking that leap to Uber changed my life. I went from managing North Carolina markets, to launching UberEATS in Miami and Milan, to launching Uber Freight in the US, to independent consulting for start-ups, and now starting my own business. 
+  
+  Those opportunities at Uber taught me so much both personally and professionally, and gave me the confidence to take harder and bigger leaps. 
+  
+  You will get a piece of advice in your career that will change the course of it. Don’t be afraid to take the leap, whatever that leap is for you.  
+  
+  What’s the worst that happens?
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+Six years ago, I took the leap and joined Uber. With a little bit of advice from an experienced colleague, I decided to go for it and it has changed the trajectory of my career. From managing North Carolina markets, to launching UberEATS and Uber Freight, to independent consulting for start-ups, and now starting my own business, Uber opened up so many opportunities to me both professionally and personally. If you're asked to make a big leap in your career, don't be afraid to do so. You never know how much could be gained from taking the leap.

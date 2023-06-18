@@ -1,0 +1,51 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+We got one of our Fractional COO customers 4 calls booked in 2 weeks. 
+  
+  I expect he will convert at least 2 of those calls to paid clients, with an average contract value of $7.5k - $10k / month each. 
+  
+  Here's how we did it: 
+  
+  1. We used our Lead Gen engine to identify leads in his niche, where he has direct, unique experience. We got very very narrow with this 
+  
+  2. With the contact information for those founders, we uploaded a CSV into an email drip campaign software 
+  
+  3. We wrote two versions of outreach copy that focused on the pain his target customer has, and how he adds value. We made sure to legitimize his experience in the note 
+  
+  4. We kicked off the campaign A/B testing the outreach note to 27 contacts, with two follow-up emails, one 3 and the other 4 days after 
+  
+  Here are the results from the campaign: 
+  
+  -79.2% open rate 
+  -37.5% response rate 
+  -5 positive responses 
+  -4 booked calls 
+  
+  Curated outreach DOES work. It just needs to be done right: to a curated list, with a compelling note, and with follow-ups. 
+  
+  Note: I was blown away by the open rate. Shoot me a DM if you'd like to know what copy we used!
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+This case study demonstrates the power of curating and personalizing outreach to a smaller, targeted group. Our Fractional COO customer received four calls from a Lead Gen engine, an automated email drip campaign, and two versions of a message crafted to address the specific pain points of their target customers. This campaign achieved a 79.2% open rate, 37.5% response rate, 5 positive responses, and ultimately 4 booked calls. The success of this campaign underscores the importance of conducting outreach the right way: calculated, curated, and followed up.

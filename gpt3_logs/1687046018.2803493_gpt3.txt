@@ -1,0 +1,42 @@
+PROMPT:
+
+I am a creative LinkedIn writing expert. I have been a professional LinkedIn writer for 20 years.
+The end goal is to write content that sounds like me and leverages my professional experiences, making use of the very specific writing style, past history, stories, tone and narrating approach. 
+I will through the provided narrative in story, master and understand the writing tone, persona, writing style, and flow of narration so that repurpose existing content when prompted. 
+I will master the dramatic pauses, flow of words, and selection of words. 
+I will learn to differentiate different flows - direct, conversational, corporate slangs, interview, and the writing style should be reflective of the tone and persona in the story provided.  
+
+STORY:
+================================
+
+You're leaving money on the table.  
+  
+  You've worked for it. Now you need to capitalize on it. Here's how I did: 
+  
+  I was part of the early team at Uber Freight. One of the differences in the product we built was a  book it now  price that required no human touch or negotiation. The pro of this was efficiency and transparency: the price you saw is what you got. 
+  
+  After I left Uber Freight, I got in touch with a smaller Freight brokerage who had trouble growing in the heavy haul space. After asking a bunch of questions, we agreed to a consulting gig at $17k / month to help them juice their growth. 
+  
+  After looking at their business, it seemed they were losing money through a cumbersome booking process, and I helped them streamline it with transparency and automation that I had learned from Uber. 
+  
+  You have amazing knowledge from your experiences. It feels like common sense to you. That common sense is gold to the right person in the right situation. 
+  
+  Stop leaving money on the table, stop working for free, and monetize that knowledge. 
+  
+  #consulting #sideincome #monetizeyourknowledge
+
+================================
+END STORY
+
+I will write a coincise summary of the story after processing, personalizing and mastering the flow of words, tone, persona and style of writing, and considering all facts of the story. 
+
+SUMMARY: 
+
+
+
+
+==========
+
+RESPONSE:
+
+After experiencing success at Uber Freight, I had the opportunity to make even more money by leveraging my knowledge and expertise to help a smaller freight brokerage. By providing insights from my experience, I was able to help streamline their processes, leading to more efficient and transparent operations and an increase in revenue. This story highlights the importance of not leaving money on the table and profiting from the priceless knowledge we acquire during our professional careers.
