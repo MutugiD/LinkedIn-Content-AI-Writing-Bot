@@ -37,4 +37,4 @@ To use the LinkedIn Content-Based AI Writing Bot, follow these steps:
 
     Prompting the Bot: After the training is complete, I will interacting with the bot by prompting it with questions or writing requests.
 
-    Optional Continuous Learning: To enhance the bot's performance, I will integrate new blogs or outbound emails into its training data.
+    Optional Continuous Learning: To enhance the bot's performance, I will integrate new blogs or outbound emails into its training data.# LinkedIn-Content-Based-AI-Writing-Bot
